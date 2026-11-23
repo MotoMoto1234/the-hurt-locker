@@ -1,0 +1,3 @@
+7a57d20a68db0519132f193ce89f45ab6839d5b22522486e2989090c29dd0025  the-hurt-locker-v1.1.0.zip
+50e9bf76d1cdcdcd688759133341ca2ae2552892bc10fbf8de2bcc7c9ba10f94  the-hurt-locker-source-v1.1.0.zip
+3e7ace519e222fcb449cbf190e1ce31ef990764e4414a68d5ffe86ad85ef77dd  module.json
